@@ -1,4 +1,4 @@
 ### Hi there 👋
 
 
-![starline (1)](https://user-images.githubusercontent.com/67820811/222498294-7bc5eeec-d127-4e05-80d1-e36ea1162c6e.png)
+![STARLINE](https://user-images.githubusercontent.com/67820811/222498943-4db10642-430d-4632-b38d-fb59dca9b6dc.png)
