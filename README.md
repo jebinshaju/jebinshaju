@@ -1,5 +1,5 @@
-<p align="center"><a href="https://github.com/jebinshaju/"><img src="https://user-images.githubusercontent.com/41234408/101987297-4473fb00-3cb9-11eb-9675-289ada4eef7e.gif" alt="Animated footer bars" width="100%"/></a></p>
-# Hi, I'm Jebin! 👋
+<!---<p align="center"><a href="https://github.com/jebinshaju/"><img src="https://user-images.githubusercontent.com/41234408/101987297-4473fb00-3cb9-11eb-9675-289ada4eef7e.gif" alt="Animated footer bars" width="100%"/></a></p>
+# Hi, I'm Jebin! 👋--->
 
 ![](https://komarev.com/ghpvc/?username=jebinshaju&style=grove)
 
