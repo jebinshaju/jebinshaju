@@ -15,6 +15,9 @@
     <td>
      <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=jebinshaju&" alt="jebinshaju" />
     </td>
+    <td>
+    <img align="center" src = "https://github-readme-stats.vercel.app/api/top-langs/?username=jebinshaju&langs_count=10&layout=compact&theme=material-lighter">
+
   </tr>
 </table>
 
