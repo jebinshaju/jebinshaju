@@ -1,5 +1,5 @@
-<!---<p align="center"><a href="https://github.com/jebinshaju/"><img src="https://user-images.githubusercontent.com/41234408/101987297-4473fb00-3cb9-11eb-9675-289ada4eef7e.gif" alt="Animated footer bars" width="100%"/></a></p>
-# Hi, I'm Jebin! 👋--->
+<!---<p align="center"><a href="https://github.com/jebinshaju/"><img src="https://user-images.githubusercontent.com/41234408/101987297-4473fb00-3cb9-11eb-9675-289ada4eef7e.gif" alt="Animated footer bars" width="100%"/></a></p> --->
+# Hi, I'm Jebin! 👋
 
 ![](https://komarev.com/ghpvc/?username=jebinshaju&style=grove)
 [![Years Badge](https://badges.pufler.dev/years/jebinshaju)](https://badges.pufler.dev)
@@ -30,7 +30,8 @@
 [![instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/jebinshaju_/)
 [![linkedin](https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/jebinshaju/)
 [![youtube](https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://www.youtube.com/@jebinshaju)
-[![twitter](https://img.shields.io/badge/twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/_AKA_LIGHTNING_)
+![X (formerly Twitter)](https://img.shields.io/twitter/follow/_AKA_LIGHTNING_?style=social&logoColor=black)
+
 <!---<p align="center"><a href="https://github.com/jebinshaju/"><img src="https://user-images.githubusercontent.com/41234408/101987287-302ffe00-3cb9-11eb-8510-3d08f56bea27.gif" alt="Animated footer bars" width="100%"/></a></p> --->
 [Spotify](https://open.spotify.com/playlist/3N13Amb3uqXhncnwxzExah)
 
