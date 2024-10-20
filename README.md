@@ -37,4 +37,4 @@
 
 [Gitlab](https://gitlab.com/jebinshaju)
 
-[![Spotify](https://novatorem-chi-plum.vercel.app/api/spotify)](https://open.spotify.com/user/jebinshaju)
+[![Spotify](https://novatorem-chi-plum.vercel.app/api/spotify)](https://open.spotify.com/user/jz33lyi4rki0igk43xld9tng2)
